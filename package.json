@@ -1,0 +1,21 @@
+{
+  "name": "rudydev-theme-v1",
+  "displayName": "RudyDev Theme [Edited Tokyo Night Storm]",
+  "description": "This is my first theme that I have edited, there will be more updates soon",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RudyDev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RudyDev-color-theme.json"
+      }
+    ]
+  }
+}
