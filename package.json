@@ -3,6 +3,18 @@
   "displayName": "RudyDev Theme [Edited Tokyo Night Storm]",
   "description": "This is my first theme that I have edited, there will be more updates soon",
   "version": "0.0.1",
+  "publisher": "RudyDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RudyDev1/theme-vsc-v1"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "tokyo",
+    "night",
+    "rudydev"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },

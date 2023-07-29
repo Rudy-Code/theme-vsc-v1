@@ -1,16 +1,20 @@
-# rudydev-theme-v1 README
+# RudyDev Theme [Edited Tokyo Night Storm]
 
-## Working with Markdown
+## Changes colors:
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+| Color&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Use |
+| ---------- | ------------------------------------------------------------ |
+| ![#011c31](https://place-hold.it/15/011c31/011c31) `#011c31` | background |
+| ![#252d4f](https://place-hold.it/15/252d4f/252d4f?text=+) `#252d4f` | line highlight background |
+| ![#011627](https://place-hold.it/15/011627/011627?text=+) `#011627` | group border, widget background, sideBar background, activityBar.background, statusBar.background, panel.background, terminal.background, editorGroupHeader.tabsBackground, tab.inactiveBackground  |
+| ![#41496b](https://place-hold.it/15/41496b/41496b?text=+) `#41496b` | activityBar.activeBorder, activityBar.inactiveForeground |
+<!-- | ![#01192c](https://place-hold.it/15/01192c/01192c?text=+) `#01192c` | editorGutter.background | -->
+and more...
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Screenshots
 
-## For more information
+![screen-theme](screen-theme.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Credits
 
-**Enjoy!**
+- This theme was created by modifying this theme: [Tokyo Night](https://github.com/enkia/tokyo-night-vscode-theme)
