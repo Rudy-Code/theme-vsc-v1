@@ -12,4 +12,16 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ### Added
 
-- foreground for entity.name.type.ts 
+- foreground for entity.name.type.ts
+
+## [0.2.0] - 2023-08-02
+
+### Added
+
+- italic font style for entity.name.type.ts and storage.type.interface.ts
+- foreground for entity.name.type.ts, entity.name.type.interface.ts
+
+### Changed
+
+- background color for editorHoverWidget.background and entity.name.type.interface.ts,
+- border color for editorHoverWidget.border

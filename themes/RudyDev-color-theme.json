@@ -168,8 +168,9 @@
 		"editorWhitespace.foreground": "#3b4261",
 
 		"editorMarkerNavigation.background": "#1f2335",
-		"editorHoverWidget.background": "#1f2335",
-		"editorHoverWidget.border": "#1b1e2e",
+		"editorHoverWidget.background": "#011c31",
+		"editorHoverWidget.border": "#033154",
+		"editorHoverWidget.foreground": "#8b8c90",
 
 		"editorBracketMatch.background": "#1f2335",
 		"editorBracketMatch.border": "#545c7e", //"#3b4261",
@@ -1495,12 +1496,23 @@
 			}
 		},
 		{
-			"name": "Typescript",
+			"name": "TS Types ",
 			"scope": [
-				"entity.name.type.ts"
+				"entity.name.type.ts",
+				"entity.name.type.interface.ts"
 			],
 			"settings": {
-				"foreground": "#7aa2f7"
+				"foreground": "#7aa2f7",
+			}
+		},
+		{
+			"name": "TS italic font ",
+			"scope": [
+				"entity.name.type.ts",
+				"storage.type.interface.ts",
+			],
+			"settings": {
+				"fontStyle": "italic"
 			}
 		},
 	]
