@@ -1493,6 +1493,15 @@
 			"settings": {
 				"foreground": "#7aa2f7"
 			}
-		}
+		},
+		{
+			"name": "Typescript",
+			"scope": [
+				"entity.name.type.ts"
+			],
+			"settings": {
+				"foreground": "#7aa2f7"
+			}
+		},
 	]
 }

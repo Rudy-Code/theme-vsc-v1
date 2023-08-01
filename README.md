@@ -8,7 +8,8 @@
 | ![#252d4f](https://place-hold.it/15/252d4f/252d4f?text=+) `#252d4f` | line highlight background |
 | ![#011627](https://place-hold.it/15/011627/011627?text=+) `#011627` | group border, widget background, sideBar background, activityBar.background, statusBar.background, panel.background, terminal.background, editorGroupHeader.tabsBackground, tab.inactiveBackground  |
 | ![#41496b](https://place-hold.it/15/41496b/41496b?text=+) `#41496b` | activityBar.activeBorder, activityBar.inactiveForeground |
-<!-- | ![#01192c](https://place-hold.it/15/01192c/01192c?text=+) `#01192c` | editorGutter.background | -->
+| ![#7aa2f7](https://place-hold.it/15/7aa2f7/7aa2f7?text=+) `#7aa2f7` | entity.name.type.ts |
+
 and more...
 
 ## Screenshots
