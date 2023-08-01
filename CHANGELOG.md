@@ -7,3 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.1.0] - 2023-08-01
+
+### Added
+
+- foreground for entity.name.type.ts 
