@@ -293,8 +293,8 @@
 
 		"titleBar.activeForeground": "#7982a9",
 		"titleBar.inactiveForeground": "#7982a9",
-		"titleBar.activeBackground": "#1f2335",
-		"titleBar.inactiveBackground": "#1f2335",
+		"titleBar.activeBackground": "#011627",
+		"titleBar.inactiveBackground": "#021729",
 		"titleBar.border": "#1b1e2e",
 
 		"walkThrough.embeddedEditorBackground": "#1f2335",
@@ -405,14 +405,14 @@
 		"notificationsInfoIcon.foreground": "#0da0ba",
 
 		"menubar.selectionForeground": "#c0caf5",
-		"menubar.selectionBackground": "#2f3549",
+		"menubar.selectionBackground": "#3d59a166",
 		"menubar.selectionBorder": "#1b1e2e",
 		"menu.foreground": "#7982a9",
-		"menu.background": "#1f2335",
+		"menu.background": "#011627",
 		"menu.selectionForeground": "#c0caf5",
-		"menu.selectionBackground": "#2f3549",
-		"menu.separatorBackground": "#1b1e2e",
-		"menu.border": "#1b1e2e"
+		"menu.selectionBackground": "#3d59a166",
+		"menu.separatorBackground": "#545c7e33",
+		"menu.border": "#545c7e33"
 	},
 	"tokenColors": [
 		{
