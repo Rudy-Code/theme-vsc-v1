@@ -160,8 +160,8 @@
 		"editor.selectionHighlightBackground": "#6f7bb633",
 
 		"editorCursor.foreground": "#c0caf5",
-		"editorIndentGuide.background": "#292e42",
-		"editorIndentGuide.activeBackground": "#3b4261",
+		"editorIndentGuide.background1": "#292e42",
+		"editorIndentGuide.activeBackground1": "#3b4261",
 		"editorLineNumber.foreground": "#3b4261",
 		"editorLineNumber.activeForeground": "#737aa2",
 		"editor.lineHighlightBackground": "#252d4f",
@@ -283,8 +283,8 @@
 		"statusBar.foreground": "#7982a9",
 		"statusBar.background": "#011627",
 		"statusBar.border": "#1b1e2e",
-		"statusBar.noFolderBackground": "#1f2335",
-		"statusBar.debuggingBackground": "#1f2335",
+		"statusBar.noFolderBackground": "#011e35",
+		"statusBar.debuggingBackground": "#131622",
 		"statusBar.debuggingForeground": "#7982a9",
 		"statusBarItem.activeBackground": "#1b1e2e",
 		"statusBarItem.hoverBackground": "#282e44",
@@ -1497,12 +1497,9 @@
 		},
 		{
 			"name": "TS Types ",
-			"scope": [
-				"entity.name.type.ts",
-				"entity.name.type.interface.ts"
-			],
+			"scope": ["entity.name.type.ts", "entity.name.type.interface.ts", "entity.name.type.alias.ts"],
 			"settings": {
-				"foreground": "#7aa2f7",
+				"foreground": "#7aa2f7"
 			}
 		},
 		{
@@ -1510,10 +1507,14 @@
 			"scope": [
 				"entity.name.type.ts",
 				"storage.type.interface.ts",
+				"storage.type.type.ts",
+				// "keyword.operator.type.ts",
+				"support.type.primitive.ts",
+				"keyword.control.export.ts"
 			],
 			"settings": {
 				"fontStyle": "italic"
 			}
-		},
+		}
 	]
 }
