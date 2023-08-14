@@ -1,12 +1,12 @@
 {
   "name": "rudydev-theme-v1",
   "displayName": "RudyDev Theme [Edited Tokyo Night Storm]",
-  "description": "This is my first theme that I have edited, there will be more updates soon",
+  "description": "This is my first theme that I have edited, there will be more updates soon. I hope you like it. I have edited the Tokyo Night Storm theme. To see the new colours go to the bottom of the readme",
   "version": "0.4.0",
   "publisher": "RudyDev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RudyDev1/theme-vsc-v1"
+    "url": "https://github.com/Rudy-Code/theme-vsc-v1"
   },
   "keywords": [
     "theme",
