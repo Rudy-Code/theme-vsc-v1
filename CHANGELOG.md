@@ -26,7 +26,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - background color for editorHoverWidget.background and entity.name.type.interface.ts,
 - border color for editorHoverWidget.border
 
-## [0.3.0] - 2023-08-12
+## [0.3.0], [0.4.0] - 2023-08-12
 
 ### Added 
 - italic font style for storage.type.type.ts, support.type.primitive.ts, keyword.control.export.ts
@@ -34,3 +34,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed 
 - colors for editorIndentGuide, statusBar, entity.name.type.interface.ts, entity.name.type.alias.ts
 - colors for titleBar.activeBackground, titleBar.inactiveBackground, menubar.selectionBackground, menu.background, menu.selectionBackground, menu.separatorBackground, menu.border
+
+## [0.5.0] - 2023-08-13
+
+### Added
+- italic font style for storage.type.enum.ts and colors for entity.name.type.enum.ts

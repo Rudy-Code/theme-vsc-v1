@@ -1497,7 +1497,7 @@
 		},
 		{
 			"name": "TS Types ",
-			"scope": ["entity.name.type.ts", "entity.name.type.interface.ts", "entity.name.type.alias.ts"],
+			"scope": ["entity.name.type.ts", "entity.name.type.interface.ts", "entity.name.type.alias.ts", "entity.name.type.enum.ts"],
 			"settings": {
 				"foreground": "#7aa2f7"
 			}
@@ -1508,7 +1508,7 @@
 				"entity.name.type.ts",
 				"storage.type.interface.ts",
 				"storage.type.type.ts",
-				// "keyword.operator.type.ts",
+				"storage.type.enum.ts",
 				"support.type.primitive.ts",
 				"keyword.control.export.ts"
 			],
